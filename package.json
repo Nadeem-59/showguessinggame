@@ -1,0 +1,19 @@
+{
+  "name": "showguessinggame",
+  "version": "2.0.0",
+  "description": "It is interesting game so lets try out",
+  "main": "index.js",
+  "type": "module",
+  "bin": "show.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "@types/node": "^20.11.30",
+    "D": "^1.0.0",
+    "showguessinggame": "^1.0.0"
+  }
+}
